@@ -23,4 +23,4 @@ function cliqueBotaoSom(classe){
     }
     
 }
-cliqueBotaoSom('teclado');
+cliqueBotaoSom('tecla');
